@@ -1,4 +1,4 @@
-# NLP-Emotion-Classification
+# NLP-Emotion-Classification project
 
 This repository presents a workflow for classifying text data related to mental health.  
 It demonstrates two approaches:
