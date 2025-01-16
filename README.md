@@ -24,3 +24,9 @@ It demonstrates two approaches:
 - Use Hugging Face’s DistilBERT for sequence classification  
 - Tokenize with `DistilBertTokenizerFast`, then train using the `Trainer` API  
 - Evaluate and compare performance metrics (accuracy, precision, recall, F1-score)
+- Compared results against the traditional pipeline to evaluate the effectiveness of Transformer-based methods.
+
+**Exploratory Data Analysis**：
+- Class Distribution: Visualized the distribution of categories using bar plots to identify imbalances.
+- Text Length Analysis: Examined the distribution of statement lengths with histograms.
+- WordClouds: Generated WordClouds for each class to highlight high-frequency terms specific to each category.
